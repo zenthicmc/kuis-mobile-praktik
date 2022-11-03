@@ -34,16 +34,16 @@ class PengerjaanFragment : Fragment() {
         )
 
         val title = arrayOf(
-            "Title lorem ipsum dolor sit amet",
-            "Title lorem ipsum dolor sit amet",
-            "Title lorem ipsum dolor sit amet",
-            "Title lorem ipsum dolor sit amet",
-            "Title lorem ipsum dolor sit amet",
-            "Title lorem ipsum dolor sit amet",
-            "Title lorem ipsum dolor sit amet",
-            "Title lorem ipsum dolor sit amet",
-            "Title lorem ipsum dolor sit amet",
-            "Title lorem ipsum dolor sit amet",
+            "Title lorem ipsum dolor",
+            "Title lorem ipsum dolor",
+            "Title lorem ipsum dolor",
+            "Title lorem ipsum dolor",
+            "Title lorem ipsum dolor",
+            "Title lorem ipsum dolor",
+            "Title lorem ipsum dolor",
+            "Title lorem ipsum dolor",
+            "Title lorem ipsum dolor",
+            "Title lorem ipsum dolor",
         )
 
         val desc = arrayOf(

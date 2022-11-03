@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/nav_home"
+        android:icon="@drawable/ic_home"
+        android:title=""
+        android:orderInCategory="1" />
+
+    <item
+        android:id="@+id/nav_pengerjaan"
+        android:icon="@drawable/ic_checklist"
+        android:title=""
+        android:orderInCategory="2" />
+
+    <item
+        android:id="@+id/spacer"
+        android:title=""
+        android:orderInCategory="3"
+        android:enabled="false"
+        android:icon="@null" />
+
+    <item
+        android:id="@+id/nav_user"
+        android:icon="@drawable/ic_user"
+        android:title=""
+        android:orderInCategory="4" />
+
+
+    <item
+        android:id="@+id/nav_setting"
+        android:icon="@drawable/ic_setting"
+        android:title=""
+        android:orderInCategory="5" />
+
+</menu>
